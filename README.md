@@ -14,7 +14,7 @@
 
 # Accessing The Dashboard
 [Dashboard Link](https://app.powerbi.com/view?r=eyJrIjoiYWU5OTBjOTYtNTQxZC00YmRiLWFkMDctODhkMzM3NTBhNTgzIiwidCI6IjkyN2YxMzk0LTI4NmQtNDdhNi05NDljLTQ4MGYxMDYwZGI5OSIsImMiOjEwfQ%3D%3D&pageName=8f4a0822d2c4e7ddd0c3)
-![Dashboard](/Data%20Job%20Ad%20Dashboard.pbix)
+![Dashboard](/image/Dashboard.png)
 
 # Recommendations
 1)  Trend of data job ads in 2024 is down.
