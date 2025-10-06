@@ -13,7 +13,7 @@
 3)  Credits to datanerd.tech for scrapping data.
 
 # Accessing The Dashboard
-[Dashboard Link](https://app.powerbi.com/view?r=eyJrIjoiMzg4YjYwZDctMzlkYi00NDQ0LWI4NjgtM2Q2MWE0YWJjMGZhIiwidCI6IjkyN2YxMzk0LTI4NmQtNDdhNi05NDljLTQ4MGYxMDYwZGI5OSIsImMiOjEwfQ%3D%3D&pageName=8f4a0822d2c4e7ddd0c3)
+[Link to Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMzg4YjYwZDctMzlkYi00NDQ0LWI4NjgtM2Q2MWE0YWJjMGZhIiwidCI6IjkyN2YxMzk0LTI4NmQtNDdhNi05NDljLTQ4MGYxMDYwZGI5OSIsImMiOjEwfQ%3D%3D&pageName=8f4a0822d2c4e7ddd0c3)
 ![Dashboard](/image/Dashboard.png)
 
 # Recommendations
